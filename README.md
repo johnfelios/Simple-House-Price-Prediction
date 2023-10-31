@@ -3,7 +3,9 @@ Simple Chicago House Price Prediction Using Multiple Linear Regression.
 Dataset contains information about houses prices in the suburbs of chicago.
 
 Price : price of house
+
 Bedroom: number of bedrooms
+
 Room: number of rooms
 
 Space : size of house (in square feet)
