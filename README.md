@@ -3,12 +3,12 @@
 
 Dataset contains information about houses prices in the suburbs of Chicago:
 
--  **Price** : price of house\par
--  **Bedroom** : number of bedrooms\par
--  **Room** : number of rooms\par
--  **Space** : size of house (in square feet)\par
--  **Tax** : amount of annual tax\par
--  **Bathroom** : number of bathrooms\par
--  **Garage** : number of garage\par
+-  **Price** : price of house
+-  **Bedroom** : number of bedrooms
+-  **Room** : number of rooms
+-  **Space** : size of house (in square feet)
+-  **Tax** : amount of annual tax
+-  **Bathroom** : number of bathrooms
+-  **Garage** : number of garage
 -  **Condition**: condition of house 
 
